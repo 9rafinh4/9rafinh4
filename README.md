@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="mailto:rafinha333ps@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/rafael-silva-938609352/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=9rafinh4&color=39d353&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil">
 </p>
 
