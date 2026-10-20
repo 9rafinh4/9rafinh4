@@ -1,66 +1,23 @@
-<h1 align="center">Olá, eu sou o Rafael 👋</h1>
+# Rafael Cristóvão
 
-<p align="center">
-  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> · Desenvolvedor Front-end em formação<br>
-  Construo coisas que resolvem problemas do meu dia a dia, do iPhone ao navegador.
-</p>
+**`Desenvolvedor Front-end`**
 
-<p align="center">
-  <a href="mailto:rafinha333ps@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=9rafinh4&color=39d353&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil">
-</p>
+Estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento web com React e TypeScript. Gosto de construir ferramentas que resolvem problemas reais do meu dia a dia, como o Painel-rotina: um sistema pessoal de hábitos, treino e sono que une widgets e automações no iPhone (Scriptable) com um painel web em React. Hoje busco minha primeira oportunidade na área para crescer como desenvolvedor e contribuir com projetos de verdade.
 
 ---
 
-### 🧑‍💻 Sobre mim
+### 🧰 Linguagens e Ferramentas
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🔭 Trabalhando no **[Painel-rotina](https://github.com/9rafinh4/Painel-rotina)**: app de iPhone + painel web para hábitos, treino, sono e evolução
-- 🌱 Estudando **React, TypeScript** e boas práticas de front-end
-- 🎯 Em busca da primeira oportunidade como desenvolvedor (estágio ou júnior)
-- 📍 São Paulo, Brasil
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 
----
-
-### 🛠️ Tecnologias que uso
-
-| | Tecnologia | Como eu uso |
-|:-:|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"> | **React** | Interfaces web componentizadas, como o painel do Painel-rotina |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"> | **TypeScript** | Tipagem para código mais seguro e fácil de manter |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"> | **JavaScript** | Base de tudo, incluindo widgets e automações no iPhone (Scriptable) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"> | **HTML5** | Estrutura semântica de páginas |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"> | **CSS3** | Layouts responsivos e estilização |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"> | **Git** | Versionamento de todos os meus projetos |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"> | **VS Code** | Meu editor do dia a dia |
+<br />
 
 ---
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="Estatísticas do GitHub" height="170">
-  <img src="./profile/top-langs.svg" alt="Linguagens mais usadas" height="170">
-</p>
-
----
-
-### 👾 Minhas contribuições (versão Pac-Man)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/9rafinh4/9rafinh4/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/9rafinh4/9rafinh4/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/9rafinh4/9rafinh4/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
----
-
-### 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Painel-rotina**](https://github.com/9rafinh4/Painel-rotina) | Sistema pessoal de rotina: widgets e automações no iPhone + painel web para hábitos, treino, sono e evolução | React · TypeScript · Scriptable |
-
-<p align="center"><i>Obrigado pela visita! ⭐ Se curtir algum projeto, deixa uma estrela.</i></p>
