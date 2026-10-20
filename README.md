@@ -31,8 +31,6 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"> | **SQL / MySQL** | Consultas, validação e análise de dados |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"> | **HTML5** | Estrutura de páginas e telas |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"> | **CSS3** | Estilização e layouts responsivos |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"> | **React** | Interfaces web nos meus projetos pessoais |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"> | **TypeScript** | Tipagem para código mais seguro |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"> | **Git** | Versionamento e trabalho em equipe |
 
 ---
