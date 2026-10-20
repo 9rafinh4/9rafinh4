@@ -1,6 +1,6 @@
 # Rafael Silva
 
-**`Tecnologia da Informação | ADS | Desenvolvimento Web`**
+**`Desenvolvedor Back-end | PHP · JavaScript · SQL`**
 
 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, com experiência em desenvolvimento web usando PHP, JavaScript e SQL. Trabalho com regras de negócio, integração de APIs, bancos de dados MySQL e versionamento com Git e GitHub. Busco evoluir continuamente em desenvolvimento de software e na construção de soluções eficientes e confiáveis.
 
