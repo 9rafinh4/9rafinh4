@@ -4,7 +4,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, com experiência em desenvolvimento web usando PHP, JavaScript e SQL. Trabalho com regras de negócio, integração de APIs, bancos de dados MySQL e versionamento com Git e GitHub. Busco evoluir continuamente em desenvolvimento de software e na construção de soluções eficientes e confiáveis.
 
-<a href="https://www.linkedin.com/in/rafael-silva-938609352/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 
 ---
 
